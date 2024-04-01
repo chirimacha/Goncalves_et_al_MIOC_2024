@@ -1,5 +1,5 @@
 # Goncalves_et_al_MIOC_2024
-Data for Goncalves et al. 
+Data and code for Goncalves et al. 2024 
 
 Files:
 random_147devyear_GROUPS.csv: The raw data of the time of development of infested houses (T. infestans and Cimex spp) and controls
